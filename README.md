@@ -1,78 +1,91 @@
-<!-- ================= HEADER ================= -->
+<!-- Replace YOUR_CSV_REPOSITORY with the actual repository name in the project link below. -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:2563EB&height=190&section=header&text=PASSI&fontSize=52&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=a%20workbench%2C%20not%20a%20trophy%20shelf&descSize=15&descAlignY=60" width="100%" alt="Passi — a workbench, not a trophy shelf" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:172554,100:334155&height=150&section=header" width="100%" alt="Decorative navy gradient header" />
 
-<br/>
+# Information Technology · Projects · Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=500&lines=learning+by+building.;small+projects%2C+honest+progress.;currently+figuring+things+out." alt="Learning by building" />
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/passi-codes-sometimes)
-![Python](https://img.shields.io/badge/Python-learning-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-in%20progress-F05032?style=flat-square&logo=git&logoColor=white)
+<p>
+  <a href="https://github.com/passi-codes-sometimes">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python learning" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-learning-F05032?style=flat-square&logo=git&logoColor=white" alt="Learning Git and GitHub" />
+</p>
 
 </div>
 
 ---
 
-### `01` — A little about this corner
+## About
 
-I'm an IT student who likes understanding how things work beneath the surface.
+I'm an Information Technology student building a stronger foundation in programming, software development, and the tools used to build and maintain projects.
 
-This repository is my public workbench: a place for experiments, projects, mistakes I've learned from, and things I've figured out along the way.
+This profile is where I publish practical work, document what I'm learning, and improve projects over time. I prefer understanding how something works and applying it in a real project over collecting tools or listing skills I can't yet demonstrate.
 
-I'm not trying to look like an expert at everything. I'd rather understand a few things properly, build something with them, and make the next version better.
+## Technical Skills
 
-### `02` — Things I've built
+### Currently using and learning
 
-<table>
-<tr>
-<td width="100%">
+| Area | Technologies / concepts |
+|---|---|
+| Programming | Python |
+| Version control | Git, GitHub |
+| Data handling | CSV files, data analysis fundamentals |
+| Project documentation | Markdown, README files |
 
-**🐍 CSV Data Analyzer & Report Generator**
+### Exploring next
 
-A Python project exploring CSV data analysis and automated report generation. One of my first steps towards turning programming concepts into a structured, working project.
+<p>
+  <img src="https://skillicons.dev/icons?i=sql,postgres,linux,fastapi,docker,aws&perline=6" alt="SQL, PostgreSQL, Linux, FastAPI, Docker, AWS" />
+</p>
 
-**Stack:** Python
+<sub>The tools above are on my learning roadmap; this is not a claim of professional proficiency.</sub>
 
-[↗ Explore the repository](YOUR_CSV_DATA_ANALYZER_REPOSITORY_URL)
+## Featured Project
 
-</td>
-</tr>
-</table>
+### CSV Data Analyzer & Report Generator
 
-### `03` — On the workbench
+A Python project built to work with CSV data and generate useful analysis and reports. It's part of my effort to turn programming fundamentals into a complete, understandable application.
 
-```text
-LEARNING    → Python, Git & GitHub
-BUILDING    → Small, practical projects
-IMPROVING   → Code structure, debugging & documentation
-```
+- **Language:** Python
+- **Focus:** CSV processing, data analysis, and project structure
+- **Status:** Learning project; improvements will be documented as it evolves
 
-### `04` — The toolbox
+**[View the repository](https://github.com/passi-codes-sometimes/YOUR_CSV_REPOSITORY)**
+
+## Current Focus
+
+- Getting comfortable with Git's everyday workflow: status, diff, staging, commits, branches, and remotes.
+- Writing Python that is readable, testable, and easier to maintain.
+- Improving project documentation so another person can understand and run the code.
+- Building projects incrementally instead of starting many and finishing few.
+
+## GitHub Overview
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub, and VS Code" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=passi-codes-sometimes&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passi-codes-sometimes&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages across public repositories" />
 
 </div>
 
-### `05` — The idea
+<div align="center">
 
-> Don't just make it work.
-> Understand why it works.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=passi-codes-sometimes&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+## A Few Principles I Try to Follow
+
+- **Understand the fundamentals.** Don't use a tool without learning what problem it solves.
+- **Build to learn.** Small, finished projects are more useful than a long list of unfinished ones.
+- **Make work understandable.** Clear names, documentation, and meaningful commits matter.
+- **Improve honestly.** Show what works today and keep improving it with evidence.
 
 ---
 
 <div align="center">
-
-<sub>Still under construction. Intentionally. ⚡</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B1020&height=85&section=footer" width="100%" alt="" />
-
+  <sub>This profile will grow with the projects I build and the things I learn.</sub>
 </div>
