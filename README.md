@@ -1,81 +1,78 @@
-# Hey there! 👋
+<!-- ================= HEADER ================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Information+Technology+Student+%F0%9F%8E%93;Aspiring+Data+Engineer+%F0%9F%9A%80;Learning+Python%2C+SQL%2C+Git+%26+GitHub;Building+my+engineering+foundation+one+step+at+a+time" alt="Animated introduction" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:2563EB&height=190&section=header&text=PASSI&fontSize=52&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=a%20workbench%2C%20not%20a%20trophy%20shelf&descSize=15&descAlignY=60" width="100%" alt="Passi — a workbench, not a trophy shelf" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=500&lines=learning+by+building.;small+projects%2C+honest+progress.;currently+figuring+things+out." alt="Learning by building" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/passi-codes-sometimes)
+![Python](https://img.shields.io/badge/Python-learning-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-in%20progress-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
-## 👨‍💻 About Me
+---
 
-I'm an Information Technology student passionate about understanding how software works and how data moves through systems.
+### `01` — A little about this corner
 
-I'm currently building my programming and engineering fundamentals, with a long-term focus on **Backend Development and Data Engineering**.
+I'm an IT student who likes understanding how things work beneath the surface.
 
-- 🎓 Pursuing a B.Tech in Information Technology.
-- 🐍 Learning Python and improving my problem-solving skills.
-- 🗄️ Exploring SQL, databases, and data processing.
-- 🔧 Learning Git and GitHub to manage projects and collaborate effectively.
-- 🚀 Building practical projects as I progress.
-- 🎯 Long-term goal: become a skilled Data Engineer and build reliable, data-intensive systems.
+This repository is my public workbench: a place for experiments, projects, mistakes I've learned from, and things I've figured out along the way.
 
-## 🛠️ Technologies I'm Learning
+I'm not trying to look like an expert at everything. I'd rather understand a few things properly, build something with them, and make the next version better.
+
+### `02` — Things I've built
+
+<table>
+<tr>
+<td width="100%">
+
+**🐍 CSV Data Analyzer & Report Generator**
+
+A Python project exploring CSV data analysis and automated report generation. One of my first steps towards turning programming concepts into a structured, working project.
+
+**Stack:** Python
+
+[↗ Explore the repository](YOUR_CSV_DATA_ANALYZER_REPOSITORY_URL)
+
+</td>
+</tr>
+</table>
+
+### `03` — On the workbench
+
+```text
+LEARNING    → Python, Git & GitHub
+BUILDING    → Small, practical projects
+IMPROVING   → Code structure, debugging & documentation
+```
+
+### `04` — The toolbox
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,postgresql,docker,aws&perline=6" alt="Python, Git, GitHub, PostgreSQL, Docker, and AWS icons" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub, and VS Code" />
 
 </div>
 
-My current priority is to build strong fundamentals rather than learn every tool at once.
+### `05` — The idea
 
-**Current focus:** Python → SQL → Git/GitHub → Backend fundamentals → Data Engineering.
-
-## 📂 Featured Project
-
-### 🐍 CSV Data Analyzer & Report Generator
-
-A Python-based project focused on analyzing CSV data and generating reports.
-
-This is one of my first practical projects, helping me develop my programming skills and learn how to organize, document, and improve a software project.
-
-🔗 **[Explore the project](YOUR_CSV_DATA_ANALYZER_REPOSITORY_URL)**
-
-## 🌱 What I'm Working Towards
-
-- Writing clean, readable, and maintainable Python code.
-- Learning SQL and relational database concepts.
-- Understanding version control and collaborative development.
-- Building backend applications and data pipelines.
-- Developing projects that demonstrate practical engineering skills.
-
-## 📈 My Philosophy
-
-> Learn the fundamentals. Build real projects. Understand the why, not just the how.
-
-I'm at the beginning of my journey, and this GitHub profile will grow alongside my skills, projects, and contributions.
+> Don't just make it work.
+> Understand why it works.
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! 🙌
+<sub>Still under construction. Intentionally. ⚡</sub>
 
-**One project, one commit, one lesson at a time.** 🚀
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B1020&height=85&section=footer" width="100%" alt="" />
 
 </div>
-
-<!--
-**PrasadTalekar-11/PrasadTalekar-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
